@@ -58,3 +58,8 @@ It includes a **Weather Data Viewer (Web Utility)** as Part 1 of the assignment.
    Added default city (Pune) so the dashboard is not empty on first load.
    Adjusted CSS for cleaner look (rounded cards, gradient background).
    Tested with different cities and fixed API fetch errors.
+
+
+
+https://github.com/user-attachments/assets/4eadffc1-11af-48ee-960e-fb42f569db8e
+
